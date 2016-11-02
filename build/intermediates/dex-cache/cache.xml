@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\WorkSpace\CustomeView03\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4096f46d5f1b7493e680ec9460cd0c3fe826f6c4">
+        <dex dex="D:\WorkSpace\CustomeView03\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_703569569291dd25e3c7d88a40be8f75f4684f80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\deming.liu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\WorkSpace\CustomeView03\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_601dcf23b148f2fb328214ed209e5707f41b14ee\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\CustomeView03\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9d33eb1305ce5d6ea517357fd7cbad6fdbf3bac">
+        <dex dex="D:\WorkSpace\CustomeView03\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fae6768adf83daad4206c07a191650e897496d01\classes.dex" />
+    </item>
+
+</items>
